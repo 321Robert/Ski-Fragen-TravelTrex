@@ -253,7 +253,8 @@ print(lineArt +
         "||              ___/ //\\,                                                                  ||\n" +
         "||                 -\\>>-|                                                                  ||\n" +
         "||              _____\\\\,                                                                   ||")
-#Die Schleife um den Neustart auszulösen
+
+#Schleife um den Neustart auszulösen
 start = True
 while start:
 
